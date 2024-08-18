@@ -1,0 +1,26 @@
+.content {
+    background-color: #FF5001;
+    padding: 30px;
+    width: 300px;
+    height: 110px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.padding {
+    background-color: #FDC5AC;
+    padding: 30px 40px 30px 40px;
+    width: 360px;
+}
+
+.border {
+    border: 15px solid black;
+    width: 440px;
+}
+.margin{
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border: 3px dashed #FF5001;
+    margin: 0 auto;
+    width: 464px;
+}
